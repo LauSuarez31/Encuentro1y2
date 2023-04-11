@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gui1suma;
+package Encuentros1y2;
 
 import static java.time.Clock.system;
 import java.util.Scanner;
